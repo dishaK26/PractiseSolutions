@@ -30,7 +30,25 @@ A fun Python script that creates hilarious fake news headlines by randomly combi
 - 343 unique combinations of funny headlines
 - Uses Python’s `itertools` to generate all possible outcomes
 
-# 4. 🧾 QR Code Generator
+
+# 4. 🔐 Password Generator
+
+A simple Python-based application that generates secure, randomized passwords based on user-selected criteria. Perfect for everyday security needs or integrating into larger authentication systems.
+
+## 🚀 Features
+
+- Generates strong passwords with customizable length
+- Includes options for letters (upper/lowercase), digits, and symbols
+- Easy-to-use command-line interface
+- Simple and lightweight codebase
+
+## 🛠️ Technologies
+- Python
+- `random` module (depending on desired security level)
+- CLI (Command Line Interface)
+- 
+
+# 5. 🧾 QR Code Generator
 
 This is a Python-based QR Code generator that instantly converts any user-provided link (like a website URL) into a scannable QR code image.
 
