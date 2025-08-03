@@ -63,6 +63,11 @@ This is a Python-based QR Code generator that instantly converts any user-provid
 
 Make sure you have Python and the required library installed:
 
+# 6.🧮 Random Number guess
+
+- This is pretty easy with random library
+
+
 ```bash
 pip install qrcode[pil]
 
