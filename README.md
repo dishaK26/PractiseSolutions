@@ -67,9 +67,15 @@ Make sure you have Python and the required library installed:
 
 - This is pretty easy with random library
 
+## 7.☕ Café Management System – CLI Version
+📌 Description
+This is a simple command-line interface (CLI) application for managing customer orders at a café. Users can view the menu, place orders, and receive a total bill based on their selections.
 
-```bash
-pip install qrcode[pil]
+🚀 Features
+-Displays a fixed menu with item prices
+-Accepts multiple orders from the customer
+-Calculates and displays the total bill
+-Handles unavailable items gracefully
 
 
 
